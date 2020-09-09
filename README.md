@@ -2,7 +2,7 @@
 Greetings! My name is Orion F. I am a self taught Python developer based out of South Carolina. While undergoing the learnings of Python, I found great interest of analysing and visualization of data. My goal is to become a Data Scientist. I am currently freelancing my works willing to relocate if necessary for experience and growth in an agency. Well let's not chat too long on my journey for you can learn more at www.DesignIsOrion.com. For now, here is my portfolio. I hope you enjoy! 
 
 
-# Project 1: CNN News Scraper
+# [Project 1: CNN News Scraper] (https://github.com/DesignisOrion/CNN-News-Scraper)
 - Created a tool that scrapes the current news events from CNN News Feed.
 - Allows users to view News Feed from terminal.
 
