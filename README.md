@@ -12,8 +12,10 @@ Greetings! My name is Orion F. I am a self taught Python developer based out of 
 - Module used was urllib for handling modules to request the rss feed.
  
 
-## What I learned
+# What I learned
 - I wanted to make a news feed scraper for CNN to learn more about BeautifulSoup4 and urllib. I was able to understand how BeautifulSoup4 allows the data to be extacted to be extracted. The urllib was also learned of it's modules such as requests and urlopen.
+
+# Preview Image
 
 ![alt Text](https://github.com/DesignisOrion/Orion_Python_Portfolio/blob/master/images/CnnNewsFeed.jpg)
 
