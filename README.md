@@ -32,4 +32,4 @@ My name is Orion F. I am a self taught Python developer with a goal to become a 
 
 #### Preview Image
 
-![](images/Artboard 1.png)
+![](images/dicegame.png)
