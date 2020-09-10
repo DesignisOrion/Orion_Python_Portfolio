@@ -17,7 +17,7 @@ My name is Orion F. I am a self taught Python developer with a goal to become a 
 
 
 
-#### [Project 2: Forde Text Editor: Project Overview] (https://github.com/DesignisOrion/Forde-Text-Editor)
+### [Project 2: Forde Text Editor: Project Overview] (https://github.com/DesignisOrion/Forde-Text-Editor)
 - Created a simple GUI using tkinter package.
 - Features included: New, Open and Exit.
 
