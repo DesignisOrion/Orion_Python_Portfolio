@@ -26,7 +26,7 @@ My name is Orion F. I am a self taught Python developer with a goal to become a 
 ![](images/forde.jpg)
 
 
-### [Project 1: Simple Dice Game] (https://github.com/DesignisOrion/Simple-Dice-Game)
+### [Project 3: Simple Dice Game] (https://github.com/DesignisOrion/Simple-Dice-Game)
 - Created a dice game that can be played within terminal. The goal is to get a double within the dice rolls vs computer.
 - Used modules of random and time.
 
