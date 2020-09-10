@@ -12,7 +12,7 @@ Greetings! My name is Orion F. I am a self taught Python developer based out of 
 
 ## Preview Image
 
-![alt Text](images/CnnNewsFeed.jpg)
+![](images/CnnNewsFeed.jpg)
 
 
 
@@ -30,4 +30,5 @@ Greetings! My name is Orion F. I am a self taught Python developer based out of 
 - Created a simple GUI using tkinter package.
 - Features included: New, Open and Exit.
 
+![](images/forde.jpg)
 
