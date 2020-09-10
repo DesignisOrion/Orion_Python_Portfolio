@@ -1,7 +1,7 @@
 # Orion Python Developer Portfolio
 
 ### About
-Greeting to all! My name is Orion F. I am a self taught Python developer based out of South Carolina. The ultimate goal is to become a software developer / engineer.
+My name is Orion F. I am a self taught Python developer with a goal to become a Software Engineer. 
 
 
 ### [Project 1: CNN News Scraper: Project Overview] (https://github.com/DesignisOrion/CNN-News-Scraper)
