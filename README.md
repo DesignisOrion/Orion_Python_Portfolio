@@ -1,7 +1,6 @@
 # Orion F. Portfolio
 
-### About
-My name is Orion F. I am a self taught Python developer with a goal to become a Software Engineer. 
+Software Developer
 
 
 ### [Project 1: CNN News Scraper: Project Overview] (https://github.com/DesignisOrion/CNN-News-Scraper)
