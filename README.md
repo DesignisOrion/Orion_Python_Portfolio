@@ -1,6 +1,8 @@
 # Orion F. Portfolio
+Python Developer 
 
-Software Developer
+## Resume 
+https://docs.google.com/document/d/1_CLLGXFP6BldKMtQss259AZKcMBXcGBM10ZIFoRErbg/edit
 
 
 ### [Project 1: CNN News Scraper: Project Overview] (https://github.com/DesignisOrion/CNN-News-Scraper)
